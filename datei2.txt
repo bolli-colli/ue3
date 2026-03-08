@@ -1,2 +1,4 @@
+
 Änderung 2 in datei2.txt ue3-zweites-repository
+das ist der text für aufageb 5
  datei2 in ue3, das andere war der zweite repo
